@@ -35,11 +35,12 @@ li {
 }
 .weather-temperature strong {
   font-size: 64px;
-  font-weight: 400px;
+  font-weight: 300px;
   line-height: 1;
 }
 .weather-temperature .units {
   position: relative;
   font-size: 16px;
   top: -34px;
+  font-weight: bold;
 }
