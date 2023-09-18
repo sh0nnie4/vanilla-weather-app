@@ -44,3 +44,7 @@ li {
   top: -34px;
   font-weight: bold;
 }
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
