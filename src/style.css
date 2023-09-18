@@ -1,5 +1,8 @@
 body {
   font-family: Cerebri-Sans, Helvetica, Arial, sans-serif;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/095/305/original/skybackground.jpg?1693515425");
+  background-position: center center;
+  height: 80;
 }
 
 h1 {
@@ -16,6 +19,7 @@ li {
   padding: 0;
   text-transform: capitalize;
 }
+
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
@@ -47,4 +51,7 @@ li {
 .weather-temperature .active {
   color: rgb(33, 33, 33);
   cursor: default;
+}
+#github-link {
+  color: #0a58ca;
 }
